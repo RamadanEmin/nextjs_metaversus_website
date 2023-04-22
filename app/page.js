@@ -4,6 +4,7 @@ import {
   Explore,
   GetStarted,
   Hero,
+  Insights,
   WhatsNew,
   World
 } from '../sections';
@@ -23,6 +24,9 @@ const Page = () => (
       <WhatsNew />
     </div>
     <World />
+    <div className="relative">
+      <Insights />
+    </div>
   </div>
 );
 
