@@ -15,5 +15,5 @@ export {
   WhatsNew,
   World,
   Insights,
-  Feedback
+  Feedback,
 };
