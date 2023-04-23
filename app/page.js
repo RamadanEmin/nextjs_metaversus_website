@@ -1,4 +1,4 @@
-import { Navbar } from '../components';
+import { Footer, Navbar } from '../components';
 import {
   About,
   Explore,
@@ -30,6 +30,7 @@ const Page = () => (
       <div className="gradient-04 z-0" />
       <Feedback />
     </div>
+    <Footer />
   </div>
 );
 
