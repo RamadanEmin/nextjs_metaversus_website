@@ -2,11 +2,12 @@ import { Navbar } from '../components';
 import {
   About,
   Explore,
+  Feedback,
   GetStarted,
   Hero,
   Insights,
   WhatsNew,
-  World
+  World,
 } from '../sections';
 
 const Page = () => (
@@ -26,6 +27,8 @@ const Page = () => (
     <World />
     <div className="relative">
       <Insights />
+      <div className="gradient-04 z-0" />
+      <Feedback />
     </div>
   </div>
 );
