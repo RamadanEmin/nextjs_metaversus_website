@@ -46,4 +46,10 @@ You can view the site here
 
 Ramadan Emin
 
-<img src="/images/pic1.png"  width= 800px height= 4330px>
+<img src="/images/pic1.png"  width= 800px height= 390px>
+<img src="/images/pic2.png"  width= 800px height= 390px>
+<img src="/images/pic3.png"  width= 800px height= 390px>
+<img src="/images/pic4.png"  width= 800px height= 390px>
+<img src="/images/pic5.png"  width= 800px height= 390px>
+<img src="/images/pic6.png"  width= 800px height= 435px>
+<img src="/images/pic7.png"  width= 800px height= 390px>
