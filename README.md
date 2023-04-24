@@ -46,4 +46,4 @@ You can view the site here
 
 Ramadan Emin
 
-<img src="/pic1.png"  width= 800px height= 4330px>
+<img src="/images/pic1.png"  width= 800px height= 4330px>
